@@ -19,7 +19,7 @@ Their revenue management team had decided to hire a 3rd party service provider t
 Microsoft Power BI, Power Query Editor, DAX
 ## Overall Insights
 
-In terms of revenue Mumbai city makes the highest revenue which is 661M, where as Delhi is the least in terms of revenue generating.
+In terms of revenue Mumbai city makes the highest revenue which is 661M, where as Delhi is the least in terms of revenue generation.
 Customers of Atlique grand prefers offline mode for booking.
 Occupancy percentage for both the category is highest during the weekend.
 Customers of Atlique grand books luxury category more as compared to to the business category.
