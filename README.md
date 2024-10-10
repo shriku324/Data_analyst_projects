@@ -24,7 +24,7 @@ Customers of Atlique grand prefers offline mode for booking.
 Occupancy percentage for both the category is highest during the weekend.
 Customers of Atlique grand books luxury category more as compared to to the business category.
 ## Solution
-If closely observed, in trend by key metrics chart there is a fluction in occupancy but there are no cosiderable fluction shown in the ADR(Average daily rate). So increase in the ADR according to the season can and the demand can impact in the growth in terms of revenue. Promotions and some attractive packages in other modes of booking can help to increase the coustomer flow.
+If closely observed, in trend by key metrics chart there is a fluctuation in occupancy but there are no cosiderable fluctuation shown in the ADR(Average daily rate). So increase in the ADR according to the season can and the demand can impact in the growth in terms of revenue. Promotions and some attractive packages in other modes of booking can help to increase the coustomer flow.
 
 ## What I learned?
 - How to visualise the data and dig for the insights
