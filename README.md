@@ -10,11 +10,11 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 ## Steps followed
 
-Load the data from files in PowerBi.
-Perform Data Cleaning in PowerQuery.
-Performed ETL process (Extract Transform and Load) Created measure for needs and used them for creating visuals in PowerBi and named the steps in PowerQuery.
-Data Modelling and Visualization.
-Dashboarding.
+1)Load the data from files in PowerBi.
+2)Perform Data Cleaning in PowerQuery.
+3)Performed ETL process (Extract Transform and Load) Created measure for needs and used them for creating visuals in PowerBi and named the steps in PowerQuery.
+4)Data Modelling and Visualization.
+5)Dashboarding.
 ## Tools used for visualization
 Microsoft Power BI, Power Query Editor, DAX
 ## Overall Insights
@@ -24,4 +24,18 @@ Customers of Atlique grand prefers offline mode for booking.
 Occupancy percentage for both the category is highest during the weekend.
 Customers of Atlique grand books luxury category more as compared to to the business category.
 ## Solution
-If closely observed, in trend by key metrics chart there is fluction in occupancy but there is no cosiderable fluction shown in the ADR(Average daily rate). So increase in the ADR according to the season can and the demand can impact in the growth in terms of revenue. Promotions and some attractive packages in other modes of booking can help to increase the coustomer flow.
+If closely observed, in trend by key metrics chart there is a fluction in occupancy but there are no cosiderable fluction shown in the ADR(Average daily rate). So increase in the ADR according to the season can and the demand can impact in the growth in terms of revenue. Promotions and some attractive packages in other modes of booking can help to increase the coustomer flow.
+
+## What I learned?
+->How to visualise the data and dig for the insights
+->Data cleaing
+->DAX measures
+->Dashboard making
+
+## Credits 
+Codebasic
+link : https://youtu.be/tT4V7zguCnc?si=2txepWB-9ONRIqRO
+
+
+
+
