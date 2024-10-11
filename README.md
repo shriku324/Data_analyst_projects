@@ -28,6 +28,7 @@ If closely observed, in trend by key metrics chart there is a fluctuation in occ
 
 ## What I learned?
 - How to visualise the data and dig for the insights
+- Data modeling
 - Data cleaing
 - DAX measures
 - Dashboard making
